@@ -1,0 +1,20 @@
+ethica-framework/
+├── README.md (Corporate positioning)
+├── SALES_PITCH.md (How to sell)
+├── QUICK_START.md (Setup in 10 min)
+├── setup.py (Package installer)
+├── requirements.txt
+├── .env.example
+│
+├── src/
+│   ├── core/
+│   │   └── framework.py (Main class)
+│   │
+│   └── modules/
+│       ├── purpose_validator.py (Keter)
+│       ├── insight_generator.py (Chochmah/Mistral)
+│       ├── context_analyzer.py (Binah-Σ/Multi-provider)
+│       └── [6 more modules needed]
+│
+└── examples/
+    └── basic_usage.py (Working demo)

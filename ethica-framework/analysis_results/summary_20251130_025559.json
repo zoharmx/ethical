@@ -1,0 +1,56 @@
+{
+  "timestamp": "20251130_025559",
+  "total_scenarios": 6,
+  "approved": 4,
+  "rejected": 2,
+  "scenarios": [
+    {
+      "name": "EDUCACIÓN",
+      "action": "Implementar plataforma educativa gratuita con IA personalizada para países en desarrollo",
+      "impact_score": 0.91,
+      "decision": "CONDITIONAL",
+      "approved": true,
+      "confidence": 0.75
+    },
+    {
+      "name": "SALUD",
+      "action": "Desarrollar IA de diagnóstico médico para detección temprana de cáncer",
+      "impact_score": 0.86,
+      "decision": "UNCONDITIONAL",
+      "approved": true,
+      "confidence": 0.9
+    },
+    {
+      "name": "MEDIO AMBIENTE",
+      "action": "Crear sistema de IA para optimizar redes eléctricas y reducir emisiones de CO2",
+      "impact_score": 0.87,
+      "decision": "CONDITIONAL",
+      "approved": true,
+      "confidence": 0.75
+    },
+    {
+      "name": "TRABAJO/VIGILANCIA",
+      "action": "Implementar sistema de monitoreo de productividad con IA para empleados remotos",
+      "impact_score": 0.2,
+      "decision": "REJECTED",
+      "approved": false,
+      "confidence": 1.0
+    },
+    {
+      "name": "JUSTICIA SOCIAL",
+      "action": "Desarrollar IA para detectar sesgos discriminatorios en procesos de contratación",
+      "impact_score": 0.88,
+      "decision": "UNCONDITIONAL",
+      "approved": true,
+      "confidence": 0.9
+    },
+    {
+      "name": "ENTRETENIMIENTO/IA",
+      "action": "Crear plataforma de contenido generado por IA para competir con creadores humanos",
+      "impact_score": 0.4,
+      "decision": "REJECTED",
+      "approved": false,
+      "confidence": 1.0
+    }
+  ]
+}

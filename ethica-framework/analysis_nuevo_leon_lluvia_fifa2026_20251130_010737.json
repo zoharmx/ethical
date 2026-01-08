@@ -1,0 +1,75 @@
+{
+  "scenario_id": "ETH-f2081328",
+  "timestamp": "2025-11-30T07:07:33.647159",
+  "strategic": {
+    "impact_score": 0.3,
+    "confidence": 0.0,
+    "integration_score": 0.0
+  },
+  "operational": {
+    "opportunities": 0,
+    "risks": 0,
+    "harmony_score": 0.0
+  },
+  "tactical": {
+    "sustainability": 0.0,
+    "precision": 0.0
+  },
+  "execution": {
+    "readiness": 0.0,
+    "approved": false
+  },
+  "impact_score": {
+    "score": 0.3,
+    "harm_reduction": -5,
+    "autonomy_respect": -3,
+    "social_harmony": -4,
+    "justice_balance": -6,
+    "truthfulness": -2,
+    "concerns": [
+      {
+        "type": "Environmental Impact",
+        "severity": "HIGH",
+        "description": "Potential toxicity of silver iodide to aquatic organisms, alteration of weather patterns ('rain theft'), and unpredictable rainfall leading to potential floods."
+      },
+      {
+        "type": "Social Justice",
+        "severity": "HIGH",
+        "description": "Disproportionate benefit to a wealthy urban area (Monterrey) at the potential expense of rural communities and neighboring states dependent on natural rainfall. Prioritization of elite interests (FIFA, tourists) over the needs of vulnerable populations."
+      },
+      {
+        "type": "Ethical Concerns",
+        "severity": "CRITICAL",
+        "description": "Raises ethical questions about the common good vs. private interests, intergenerational justice, distributive justice, the precautionary principle, sovereignty, and technological dependence."
+      },
+      {
+        "type": "Scientific Uncertainty",
+        "severity": "MEDIUM",
+        "description": "Debated effectiveness of cloud seeding and potential for unintended consequences due to atmospheric conditions."
+      },
+      {
+        "type": "Regional Conflict",
+        "severity": "MEDIUM",
+        "description": "Potential for conflict with neighboring states and agricultural communities due to 'rain theft' and lack of consultation."
+      }
+    ],
+    "manifestation_valid": false,
+    "reasoning": "The proposal aims to mitigate heat during the FIFA World Cup, potentially reducing heatstroke risk. However, it carries significant environmental risks, including potential toxicity to aquatic organisms, alteration of weather patterns (rain theft), and unpredictable rainfall. Socially, it could lead to regional conflicts and disproportionately benefits a wealthy urban area while potentially harming rural communities and neighboring states. The effectiveness is debated, and the proposal raises ethical concerns about prioritizing elite interests over the common good and long-term environmental sustainability."
+  },
+  "insight_analysis": null,
+  "perspective_comparison": null,
+  "opportunity_assessment": null,
+  "risk_assessment": null,
+  "conflict_resolution": null,
+  "sustainability": null,
+  "implementation": null,
+  "integration": null,
+  "decision": {
+    "approved": false,
+    "approval_type": "REJECTED",
+    "confidence": 1.0,
+    "actions": [],
+    "conditions": [],
+    "reasoning": "Failed purpose validation. Impact score: 30.0%"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "caso": "Bombardeo de nubes con yoduro de plata - Nuevo León FIFA 2026",
+  "fecha_analisis": "20251130_010737",
+  "decision": {
+    "tipo": "REJECTED",
+    "aprobado": false,
+    "confianza": 1.0
+  },
+  "scores": {
+    "impacto": 0.3,
+    "confianza_analisis": 0.0,
+    "integracion": 0.0,
+    "armonia": 0.0,
+    "sostenibilidad": 0.0,
+    "precision": 0.0,
+    "preparacion": 0.0
+  },
+  "dimensiones_impacto": {
+    "reduccion_dano": -5,
+    "respeto_autonomia": -3,
+    "armonia_social": -4,
+    "balance_justicia": -6,
+    "veracidad": -2
+  },
+  "razonamiento": "Failed purpose validation. Impact score: 30.0%",
+  "num_condiciones": 0,
+  "num_acciones": 0
+}
